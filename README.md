@@ -1,5 +1,7 @@
 # Learn OpenCV in RaspberryPi 
 
+[my_badge](https://badgen.net/badge/hello/world/red?icon=twitter)
+
 - Preparation :
   - [Setup Raspberry Pi & OpenCV](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/0.%20SETUP.md)
   - Setup Client Computer (*optional*)
