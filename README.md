@@ -1,4 +1,4 @@
-# RaspberryPi-OpenCV-Learn
+# Learn OpenCV in RaspberryPi 
 
 - Preparation :
   - [Setup Raspberry Pi & OpenCV](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/0.%20SETUP.md)
