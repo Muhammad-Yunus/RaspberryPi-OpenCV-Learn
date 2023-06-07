@@ -1,6 +1,6 @@
 # Learn OpenCV in RaspberryPi 
 
-![my_badge](https://badgen.net/badge/opencv/4.5.3/blue)
+![my_badge](https://badgen.net/badge/opencv/4.5.3/green)
 ![my_badge](https://badgen.net/badge/raspberry-pi/3B/blue)
 ![my_badge](https://badgen.net/badge/raspberry-pi/3B\+/blue)
 ![my_badge](https://badgen.net/badge/raspberry-pi/4B/blue)
