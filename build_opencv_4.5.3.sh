@@ -74,7 +74,6 @@ install_dependencies () {
         gstreamer1.0-tools \
         gstreamer1.0-gl \
         libgtk-3-dev \
-        qt4-default \
         libjpeg62-turbo-dev \
         libjpeg-dev \
         libturbojpeg0-dev \
