@@ -11,6 +11,7 @@ while cap.isOpened():
     if not ret:
         break
 
+    frame = cv2.resize(frame, (0,0), fx=0.125, fy=0.125)
     cv2.imshow('Frame',frame)
 
     # wait 25ms per frame and close using 'q' 

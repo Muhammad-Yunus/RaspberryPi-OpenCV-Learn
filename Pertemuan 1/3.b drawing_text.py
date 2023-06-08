@@ -7,8 +7,8 @@ cv2.putText(img,
             (50, 50),                   
             cv2.FONT_HERSHEY_SIMPLEX,     
             1.5,                          
-            (0, 255, 127),                
-            1,
+            (255, 0, 255),                
+            3,
             cv2.LINE_AA) 
 
 # show image
