@@ -16,3 +16,7 @@
   - [Basic Python Programming](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/Pertemuan%201/1.%20basic_python.ipynb)
   - [OpenCV - Input & Output](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/Pertemuan%201/2.%20opencv_input_output.ipynb)
   - [OpenCV - Drawing Tool](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/Pertemuan%201/3.%20opencv_drawing_tool.ipynb)
+- Pertemuan 2 : 
+  - [OpenCV - Thresholding](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/Pertemuan%202/1.%20opencv_thresholding.ipynb)
+  - [OpenCV - Contour](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/Pertemuan%201/2.%20opencv_input_output.ipynb)
+  - [OpenCV - Cascade Classifier](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/Pertemuan%202/3.%20opencv_cascade_classifier.ipynb)
