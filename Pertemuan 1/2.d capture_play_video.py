@@ -1,7 +1,7 @@
 import cv2
 
 # load video
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture("http://192.168.250.185:4747/video?640x480")
            
 # iterate for each frame in video
 while cap.isOpened():
