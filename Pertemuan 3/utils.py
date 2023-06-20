@@ -63,7 +63,7 @@ class Utils :
             w = int(box[2])
             h = int(box[3])
             
-            label_text = "%s (%.2f %%)" % (classes[classIds[i]], confidences[i])
+            label_text = "%s (%.2f %%)" % (classes[classIds[i]], confidences[i] * 100)
             frame = self.draw_ped(frame, label_text, x, y, x+w, y+h, 
                             font_size=font_size, 
                             color=color, text_color=text_color)  

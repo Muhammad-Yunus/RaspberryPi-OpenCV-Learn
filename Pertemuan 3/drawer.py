@@ -38,7 +38,7 @@ class Drawer :
         if cy == 0 :
             cy = y0 
 
-        text = str(max(cx, cy))
+        text = str(xt) #str(max(cx, cy))
 
         shift_y = 0
         cl = self.check_cross_line(img, xt, yt)

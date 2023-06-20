@@ -19,7 +19,7 @@ net.setPreferableTarget(cv2.dnn.DNN_TARGET_CPU)
 layerOutput = net.getUnconnectedOutLayersNames()
 
 # load image
-img = cv2.imread("image1.jpg")
+img = cv2.imread("image5.jpg")
 
 # convert to blob
 resize_h, resize_w = 300, 300 
