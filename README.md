@@ -20,3 +20,6 @@
   - [OpenCV - Thresholding](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/Pertemuan%202/1.%20opencv_thresholding.ipynb)
   - [OpenCV - Contour](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/Pertemuan%202/2.%20opencv_contour.ipynb)
   - [OpenCV - Cascade Classifier](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/Pertemuan%202/3.%20opencv_cascade_classifier.ipynb)
+- Pertemuan 3 : 
+  - [OpenCV DNN](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/Pertemuan%203/1.%20opencv_dnn.ipynb)
+  - [Case Study](https://github.com/Muhammad-Yunus/RaspberryPi-OpenCV-Learn/blob/main/Pertemuan%203/2.%20case_study.ipynb)
